@@ -5,6 +5,7 @@ My principal asked me to set up a form where students could report bullying or h
 Took 20 mins to write, so thought I'd share with others if they found it useful.
 
 There is a link on our portal to the form:
+
 <img src='https://raw.githubusercontent.com/mathsnz/bullying/master/Images/Form.jpg' width=100>
 
 When students fill it in they get a confirmation:
