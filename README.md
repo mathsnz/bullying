@@ -9,9 +9,11 @@ There is a link on our portal to the form:
 <img src='https://raw.githubusercontent.com/mathsnz/bullying/master/Images/Form.jpg' width=200>
 
 When students fill it in they get a confirmation:
+
 <img src='https://raw.githubusercontent.com/mathsnz/bullying/master/Images/Form%202.jpg' width=200>
 
 And an email like below is sent through to the nominated email address
+
 <img src='https://raw.githubusercontent.com/mathsnz/bullying/master/Images/Email.jpg' width=200>
 
 Requirements:
