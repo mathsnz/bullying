@@ -6,13 +6,13 @@ Took 20 mins to write, so thought I'd share with others if they found it useful.
 
 There is a link on our portal to the form:
 
-<img src='https://raw.githubusercontent.com/mathsnz/bullying/master/Images/Form.jpg' width=100>
+<img src='https://raw.githubusercontent.com/mathsnz/bullying/master/Images/Form.jpg' width=200>
 
 When students fill it in they get a confirmation:
-![submitted](https://raw.githubusercontent.com/mathsnz/bullying/master/Images/Form%202.jpg | width=100)
+<img src='https://raw.githubusercontent.com/mathsnz/bullying/master/Images/Form%202.jpg' width=200>
 
 And an email like below is sent through to the nominated email address
-![email](https://raw.githubusercontent.com/mathsnz/bullying/master/Images/Email.jpg | width=100)
+<img src='https://raw.githubusercontent.com/mathsnz/bullying/master/Images/Email.jpg' width=200>
 
 Requirements:
 - A server running PHP
