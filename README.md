@@ -5,14 +5,13 @@ My principal asked me to set up a form where students could report bullying or h
 Took 20 mins to write, so thought I'd share with others if they found it useful.
 
 There is a link on our portal to the form:
-![alt text](https://raw.githubusercontent.com/mathsnz/bullying/master/Images/Form.jpg)
+![form](https://raw.githubusercontent.com/mathsnz/bullying/master/Images/Form.jpg)
 
 When students fill it in they get a confirmation:
-![alt text](https://raw.githubusercontent.com/mathsnz/bullying/master/Images/Form 2.jpg)
-
+![submitted](https://raw.githubusercontent.com/mathsnz/bullying/master/Images/Form%202.jpg)
 
 And an email like below is sent through to the nominated email address
-![alt text](https://raw.githubusercontent.com/mathsnz/bullying/master/Images/Email.jpg)
+![email](https://raw.githubusercontent.com/mathsnz/bullying/master/Images/Email.jpg)
 
 Requirements:
 - A server running PHP
