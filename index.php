@@ -2,10 +2,6 @@
 // Settings
 // These are the settings you need to adjust
 
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-
 $schoolname = "Kāpiti College";		// This is your school name
 $host = '172.30.0.91'; 				// This is your SMTP host
 $port = '25';						// This is the port for your SMTP host
